@@ -11,5 +11,5 @@
 
 ## Gebruikte tools
 
-* Kanban-bord: http://trello.com/
-* Tijdregistratie: http://toggl.com/
+* Kanban-bord: https://trello.com/ampersand4
+* Tijdregistratie: hhttps://www.toggl.com/app/team/679477
