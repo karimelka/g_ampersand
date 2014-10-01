@@ -17,7 +17,7 @@ We gaan ons deze week bewust niet bezig houden met het linux gedeelte van de opd
 ### Algemeen
 
 [Afbeelding huidige toestand Kanban-bord invoegen]
-
+Hier komt de afbeelding
 * ...
 * ...
 
