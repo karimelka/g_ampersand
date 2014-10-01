@@ -5,10 +5,10 @@
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
-| Nico |       |           |
-| Chrstian |       |           |
-| Dries |       |           |
-| Karim |       |           |
+| Nico |    V   |           |
+| Chrstian |   V    |           |
+| Dries |       |    Rijexamen       |
+| Karim |   V    |           |
 
 ## Wat heb je deze week gerealiseerd?
 Alles klaarzetten van 
