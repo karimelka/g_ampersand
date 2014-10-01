@@ -18,8 +18,7 @@ We gaan ons deze week bewust niet bezig houden met het linux gedeelte van de opd
 
 [Afbeelding huidige toestand Kanban-bord invoegen]
 Hier komt de afbeelding
-* ...
-* ...
+![ScreenShot](http://puu.sh/bVeNt/4fea13b13b.png)
 
 [Voeg link toe naar teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
 
